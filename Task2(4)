@@ -1,0 +1,13 @@
+number = int(input("enter the number"))
+
+def find_divider(number):
+    counter = 1
+    divider = 2
+
+    while ()
+    
+    print(counter)
+
+find_divider(number)
+
+    
